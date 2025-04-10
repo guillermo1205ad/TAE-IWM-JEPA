@@ -1,2 +1,2 @@
 # TAE-JEPA
- Código fuente de la investigación: "Aprendizaje de Representaciones en el Espacio Latente: Integrando Representaciones Disentangled y Modelos del Mundo".
+The source code for the research titled "Learning Latent Space Representations: Integrating Disentangled Representations with Image World Models".
